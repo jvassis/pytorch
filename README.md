@@ -1,2 +1,2 @@
 # pytorch
-Repositório dos projetos desenvolvidos no curso da IAExpert
+Repositório dos projetos desenvolvidos em PyTorch
